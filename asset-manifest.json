@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/RAI-Capston/static/css/main.4c346106.chunk.css",
+    "main.js": "/RAI-Capston/static/js/main.ec8e13e3.chunk.js",
+    "runtime-main.js": "/RAI-Capston/static/js/runtime-main.b1d844c6.js",
+    "static/js/2.daf3edf2.chunk.js": "/RAI-Capston/static/js/2.daf3edf2.chunk.js",
+    "static/js/3.9551b5b7.chunk.js": "/RAI-Capston/static/js/3.9551b5b7.chunk.js",
+    "index.html": "/RAI-Capston/index.html",
+    "static/js/2.daf3edf2.chunk.js.LICENSE.txt": "/RAI-Capston/static/js/2.daf3edf2.chunk.js.LICENSE.txt",
+    "static/media/book.2fb4ab27.svg": "/RAI-Capston/static/media/book.2fb4ab27.svg",
+    "static/media/dashboard.50d5e3cb.svg": "/RAI-Capston/static/media/dashboard.50d5e3cb.svg",
+    "static/media/equipment.e97df238.svg": "/RAI-Capston/static/media/equipment.e97df238.svg",
+    "static/media/lock.caaa2eaf.svg": "/RAI-Capston/static/media/lock.caaa2eaf.svg",
+    "static/media/message.dce1f02a.svg": "/RAI-Capston/static/media/message.dce1f02a.svg",
+    "static/media/notification.70965205.svg": "/RAI-Capston/static/media/notification.70965205.svg",
+    "static/media/phone.1ef97e5e.svg": "/RAI-Capston/static/media/phone.1ef97e5e.svg",
+    "static/media/support.295db985.svg": "/RAI-Capston/static/media/support.295db985.svg",
+    "static/media/tracter.90fbbe86.svg": "/RAI-Capston/static/media/tracter.90fbbe86.svg",
+    "static/media/user.819e0b4c.svg": "/RAI-Capston/static/media/user.819e0b4c.svg",
+    "static/media/userProfile.355f22e7.svg": "/RAI-Capston/static/media/userProfile.355f22e7.svg",
+    "static/media/warning.154753e1.svg": "/RAI-Capston/static/media/warning.154753e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d844c6.js",
+    "static/js/2.daf3edf2.chunk.js",
+    "static/css/main.4c346106.chunk.css",
+    "static/js/main.ec8e13e3.chunk.js"
+  ]
+}
