@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/RAI-Capston/static/css/main.4c346106.chunk.css",
-    "main.js": "/RAI-Capston/static/js/main.e6a520f1.chunk.js",
+    "main.js": "/RAI-Capston/static/js/main.56c08a52.chunk.js",
     "runtime-main.js": "/RAI-Capston/static/js/runtime-main.0abb50e7.js",
-    "static/js/2.8c6e6d0c.chunk.js": "/RAI-Capston/static/js/2.8c6e6d0c.chunk.js",
+    "static/js/2.53c6ec5f.chunk.js": "/RAI-Capston/static/js/2.53c6ec5f.chunk.js",
     "static/js/3.96822cd6.chunk.js": "/RAI-Capston/static/js/3.96822cd6.chunk.js",
     "index.html": "/RAI-Capston/index.html",
-    "static/js/2.8c6e6d0c.chunk.js.LICENSE.txt": "/RAI-Capston/static/js/2.8c6e6d0c.chunk.js.LICENSE.txt",
+    "static/js/2.53c6ec5f.chunk.js.LICENSE.txt": "/RAI-Capston/static/js/2.53c6ec5f.chunk.js.LICENSE.txt",
     "static/media/book.2fb4ab27.svg": "/RAI-Capston/static/media/book.2fb4ab27.svg",
     "static/media/dashboard.50d5e3cb.svg": "/RAI-Capston/static/media/dashboard.50d5e3cb.svg",
     "static/media/equipment.e97df238.svg": "/RAI-Capston/static/media/equipment.e97df238.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0abb50e7.js",
-    "static/js/2.8c6e6d0c.chunk.js",
+    "static/js/2.53c6ec5f.chunk.js",
     "static/css/main.4c346106.chunk.css",
-    "static/js/main.e6a520f1.chunk.js"
+    "static/js/main.56c08a52.chunk.js"
   ]
 }
