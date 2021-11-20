@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RAI-Capston/static/css/main.4c346106.chunk.css",
-    "main.js": "/RAI-Capston/static/js/main.00b33117.chunk.js",
+    "main.js": "/RAI-Capston/static/js/main.36f46a92.chunk.js",
     "runtime-main.js": "/RAI-Capston/static/js/runtime-main.0abb50e7.js",
     "static/js/2.4c409e52.chunk.js": "/RAI-Capston/static/js/2.4c409e52.chunk.js",
     "static/js/3.96822cd6.chunk.js": "/RAI-Capston/static/js/3.96822cd6.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0abb50e7.js",
     "static/js/2.4c409e52.chunk.js",
     "static/css/main.4c346106.chunk.css",
-    "static/js/main.00b33117.chunk.js"
+    "static/js/main.36f46a92.chunk.js"
   ]
 }
