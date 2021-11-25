@@ -8,3 +8,5 @@ RAI Capstone Design GIt Pages web
 
 - 2021 11 21 비동기 로직 개선 (200ms -> 100ms내외)
 - 2021 11 21 로그인 실패시 로직 변경
+
+- 2021 11 25 Chart로직 개선 1~5개 항목 추가
