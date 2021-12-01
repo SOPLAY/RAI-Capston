@@ -11,3 +11,5 @@ RAI Capstone Design GIt Pages web
 
 - 2021 11 25 Chart로직 개선 1~5개 항목 추가
 - 2021 11 25 Chart 중복 증식 오류 패치
+
+- 2021 12 01 회원가입 페이지 구현 (실연동 X ) 및 오류 처리
