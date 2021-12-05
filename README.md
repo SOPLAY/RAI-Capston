@@ -36,3 +36,4 @@ RAI Capstone Design GIt Pages web
   - proxy 설정 및 날씨 정보 ajax요청 로직 변경
   - 날씨 정보 rss 파싱
   - 날씨정보 서울ㆍ인천ㆍ경기도 지역중 상세 도시 선택가능 처리
+  - proxy 파일 버그로 인한 긴급 fix
