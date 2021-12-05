@@ -38,3 +38,7 @@ RAI Capstone Design GIt Pages web
   - 날씨정보 서울ㆍ인천ㆍ경기도 지역중 상세 도시 선택가능 처리
   - proxy 파일 버그로 인한 긴급 fix
   - proxy 개발 서버 / 배포 cros 오류 수정
+
+- 2021_12_06
+
+  - 회원가입 경고창 표시 변경
