@@ -1,19 +1,13 @@
 {
   "files": {
-    "main.css": "/RAI-Capston/static/css/main.5739ad41.chunk.css",
-    "main.js": "/RAI-Capston/static/js/main.01cbb495.chunk.js",
-    "main.js.map": "/RAI-Capston/static/js/main.01cbb495.chunk.js.map",
-    "runtime-main.js": "/RAI-Capston/static/js/runtime-main.7d2769f7.js",
-    "runtime-main.js.map": "/RAI-Capston/static/js/runtime-main.7d2769f7.js.map",
-    "static/css/2.1d01e72d.chunk.css": "/RAI-Capston/static/css/2.1d01e72d.chunk.css",
-    "static/js/2.d88887dd.chunk.js": "/RAI-Capston/static/js/2.d88887dd.chunk.js",
-    "static/js/2.d88887dd.chunk.js.map": "/RAI-Capston/static/js/2.d88887dd.chunk.js.map",
-    "static/js/3.17fbb957.chunk.js": "/RAI-Capston/static/js/3.17fbb957.chunk.js",
-    "static/js/3.17fbb957.chunk.js.map": "/RAI-Capston/static/js/3.17fbb957.chunk.js.map",
+    "main.css": "/RAI-Capston/static/css/main.4c346106.chunk.css",
+    "main.js": "/RAI-Capston/static/js/main.1b588a84.chunk.js",
+    "runtime-main.js": "/RAI-Capston/static/js/runtime-main.e2044b3a.js",
+    "static/css/2.6e455f2f.chunk.css": "/RAI-Capston/static/css/2.6e455f2f.chunk.css",
+    "static/js/2.915b33ee.chunk.js": "/RAI-Capston/static/js/2.915b33ee.chunk.js",
+    "static/js/3.44b81dcf.chunk.js": "/RAI-Capston/static/js/3.44b81dcf.chunk.js",
     "index.html": "/RAI-Capston/index.html",
-    "static/css/2.1d01e72d.chunk.css.map": "/RAI-Capston/static/css/2.1d01e72d.chunk.css.map",
-    "static/css/main.5739ad41.chunk.css.map": "/RAI-Capston/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.d88887dd.chunk.js.LICENSE.txt": "/RAI-Capston/static/js/2.d88887dd.chunk.js.LICENSE.txt",
+    "static/js/2.915b33ee.chunk.js.LICENSE.txt": "/RAI-Capston/static/js/2.915b33ee.chunk.js.LICENSE.txt",
     "static/media/calendar-alt-solid.4cc305e5.svg": "/RAI-Capston/static/media/calendar-alt-solid.4cc305e5.svg",
     "static/media/dashboard.50d5e3cb.svg": "/RAI-Capston/static/media/dashboard.50d5e3cb.svg",
     "static/media/lock.caaa2eaf.svg": "/RAI-Capston/static/media/lock.caaa2eaf.svg",
@@ -34,10 +28,10 @@
     "static/media/weather.d0723f67.svg": "/RAI-Capston/static/media/weather.d0723f67.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d2769f7.js",
-    "static/css/2.1d01e72d.chunk.css",
-    "static/js/2.d88887dd.chunk.js",
-    "static/css/main.5739ad41.chunk.css",
-    "static/js/main.01cbb495.chunk.js"
+    "static/js/runtime-main.e2044b3a.js",
+    "static/css/2.6e455f2f.chunk.css",
+    "static/js/2.915b33ee.chunk.js",
+    "static/css/main.4c346106.chunk.css",
+    "static/js/main.1b588a84.chunk.js"
   ]
 }

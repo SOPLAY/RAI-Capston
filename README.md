@@ -42,3 +42,9 @@ RAI Capstone Design GIt Pages web
 - 2021_12_06
 
   - 회원가입 경고창 표시 변경
+
+- 2021_12_07
+
+  - 기상청 3일 동네예보 추가 ( 비산1동 )
+  - Dashboard 오늘의 날씨 연동
+  - loading UI 변경
