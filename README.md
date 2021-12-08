@@ -48,3 +48,13 @@ RAI Capstone Design GIt Pages web
   - 기상청 3일 동네예보 추가 ( 비산1동 )
   - Dashboard 오늘의 날씨 연동
   - loading UI 변경
+
+- 2021 12 08
+
+  - 날씨 관련 Dashboard 디자인 추가
+  - `\*버그 ( 아이콘이 state4번의 색상인 회색으로 변경됨) `=> 해결 완료 ( svg class 명칭 변경)
+  - React.lazy()추가
+
+- 2021 12 09
+
+  - Dashboard 내 전환 animation 추가
